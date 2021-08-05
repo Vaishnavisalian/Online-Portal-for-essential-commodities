@@ -1,0 +1,57 @@
+personal care: 1]facewash
+                  1st product] name:Greenberry Organics Detox Charcoal Face Wash, Vitamin C, Green Tea, Tea Tree, Controls Oil, Anti Acne, Anti Pollution, All Skin Type, Unisex, Natural & Organic, 120 ml
+                  -Price:₹ 299.00 (₹ 249.17 / 100 ml)
+                  2nd product] name:Garnier Men Power White Anti-Pollution Double Action Facewash, 100gm
+                  -Price:₹ 144.00
+                  3rd product] name:NIVEA Men Face Wash, All-In-One, 10x Vitamin C, 100ml   
+                  -Price:₹ 150.00 (₹ 150.00 / 100 ml)
+                  4th product] name:Aroma Magic Face Wash 100 ml (Neem)
+                  -Price:₹ 144.00 (₹ 144.00 / 100 ml)
+                  5th product] name:Clean & Clear Foaming Face Wash For Oily Skin, 150ml
+                  -Price:₹ 148.00 (₹ 98.67 / 100 ml)
+
+               2]masks
+                   -product name:Disposable Face Mask, 50 Pcs 3 Layer Breathable & Comfortable Filter Safety Mask, Non-Woven Mouth Cover for Personal, Suitable for Home, Office, Outdoor
+                   -Price:$7.99 
+
+              3]Body lotion
+                 1st product] name:OGX Radiant Glow + Argan Oil of Morocco Extra Hydrating Lotion, 19.5 Fl Oz (Pack of 1)
+                  -Price:$6.99 
+                 2nd product] name:NIVEA Essentially Enriched Body Lotion - Pack of 2, 48 Hour Moisture For Dry to Very Dry Skin - 16.9 Fl. Oz. Bottles
+                  -Price:$10.96 
+                 3rd product] name:Vaseline Men Healing Moisture Body Lotion For Dry Skin Fast Absorbing Absorbs in Just 15 Skin For Moisturized Skin 20.3 oz 3 count 
+                  -Price:$15.97
+                 4th product] name:Jergens Hydrating Coconut Body Moisturizer, 16.8 Ounce, Body and Hand Lotion, Infused with Coconut Oil, Hydrates Dry Skin Instantly, Dermatologist Tested (Packaging May Vary)
+                  -Price:$5.79
+
+              4]Moisturizers
+                  1st product] name:Neutrogena Oil Free Acne Facial Moisturizer with.5% Salicylic Acid Acne Treatment, Pink Grapefruit Acne Fighting Face Lotion for Breakouts, Non-Greasy & Non-Comedogenic, 4 fl. oz
+                  -Price:$6.67 
+                  2nd product] name:Neutrogena Rapid Wrinkle Repair Retinol Regenerating Anti-Aging Face Cream & Hyaluronic Acid; Anti-Wrinkle Retinol Moisturizer & Neck Cream, with Hyaluronic Acid & Retinol, 1.7 oz
+                  -Price:$22.92
+                  3rd product] name:Neutrogena Triple Age Repair Anti-Aging Daily Facial Moisturizer with SPF 25 Sunscreen & Vitamin C, Firming Face & Neck Cream for Dark Spots with Glycerin & Shea Butter, 1.7 oz
+                  -Price:$16.97
+                  4th product] name:MARYANN Organics Collagen Cream - Anti Aging Face Moisturizer - Day & Night - Made in USA - Natural Formula with Hyaluronic Acid & Vitamin C - Cleanse, Moisturize, and Protect Your Skin
+                  -Price:$25.49
+
+
+
+Medicines: 1]Normal 
+                  1st product] name:Chest Congestion, Mucinex Maximum Strength 12 Hour Extended Release Tablets, 42ct, 1200 mg Guaifenesin Relieves Chest Congestion Caused by Excess Mucus, #1 Doctor Recommended OTC expectorant
+                  -Price:$60.74
+                  2nd product] name:Vicks Vapopatch With Long Lasting Soothing Vapors, 2 boxes of 5 (10 Patches Total)
+                  -Price:$16.37
+                  3rd product] name:Gas-X Ultra Strength Softgel for Fast Gas Relief, 50 count   
+                  -Price:$11.94
+                  4th product] name:VitaVocal Throat & Voice Enhancer
+                  -Price:$56.74
+                                 
+           2]bands
+                  1st product] name:Travel Wristbands,Travel Motion Sickness Relief Wrist Band,Natural Nausea Relief, 4-Pair
+                  -Price:$21.99
+                  2nd product] name:Sea-Band Anti-Nausea Acupressure Wristband for Motion Sickness, Child, Assorted Colors, Pack of 2
+                  -Price:$42.99
+                  3rd product] name:Travel Wristbands,Travel Motion Sickness Relief Wrist Band,Natural Nausea Relief,4-Pair   
+                  -Price:$14.99
+                  4th product] name:Letool2 Pairs Anti-Nausea Wristbands SICKNESS Motion Sick Car Flying Pregnancy Sea Trips
+                  -Price:$3.99
